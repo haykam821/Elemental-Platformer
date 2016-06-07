@@ -1,0 +1,20 @@
+<svg version="1.1" width="484" height="366" viewBox="-1 -1 484 366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5838077813386917" fill="#FF9400" stroke="#FF9400" stroke-width="2" d="M 0 2 L 477 2 L 477 360 L 0 360 L 0 2 Z " transform="matrix(0.9937369227409363, 0, 0, 1, 2.95, 4)"/>
+  <path id="ID0.34661913430318236" fill="#FFD499" stroke="none" d="M 4 5 L 89 5 L 89 135 L 4 135 L 4 5 Z " transform="matrix(1.0117647647857666, 0, 0, 1.0230768918991089, -2, -5.05)"/>
+  <path id="ID0.9520482332445681" fill="#666666" stroke="none" d="M 0 127 L 89 127 L 89 360 L 0 360 L 0 127 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.5743003985844553" fill="#666666" stroke="none" d="M 131 125 L 209 125 L 209 360 L 131 360 L 131 125 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.20962524833157659" fill="#666666" stroke="none" d="M 272 124 L 349 124 L 349 360 L 272 360 L 272 124 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.250385916326195" fill="#666666" stroke="none" d="M 378 126 L 480 126 L 480 360 L 378 360 L 378 126 Z " transform="matrix(0.7352941036224365, 0, 0, 1, 127.05, 3)"/>
+  <path id="ID0.05064207036048174" fill="#666666" stroke="none" d="M 0 0 L 480 0 L 480 58 L 0 58 L 0 0 Z " transform="matrix(0.8208333253860474, 0, 0, 1, 88, 3)"/>
+  <path id="ID0.09612761344760656" fill="#FF00BF" stroke="none" d="M 209 347 L 271 347 L 271 360 L 209 360 L 209 347 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.39983089827001095" fill="#FF0000" stroke="none" d="M 90 350 L 129 350 L 129 360 L 90 360 L 90 350 Z " transform="matrix(1.1025642156600952, 0, 0, 1, -10.2, 3)"/>
+  <text id="ID0.5156297241337597" fill="#FFFFFF" x="18" y="292.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 16, 282.5)">which</text>
+  <text id="ID0.8019421203061938" fill="#FFFFFF" x="146" y="275.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 154, 258.5)">one</text>
+  <text id="ID0.3535710768774152" fill="#FFFFFF" x="276" y="294.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 273, 280.5)">should I</text>
+  <text id="ID0.40945974458009005" fill="#FFFFFF" x="412" y="269.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 410, 255.5)">choose?</text>
+  <path id="ID0.39983089827001095" fill="#FF0000" stroke="none" d="M 90 350 L 129 350 L 129 360 L 90 360 L 90 350 Z " transform="matrix(1.4102565050125122, 0, 0, 1, 221.6, 2)"/>
+  <path id="ID0.38050923869013786" fill="#FFD499" stroke="none" d="M 169.500 76 C 173.500 76 177.125 77.625 179.750 80.250 C 182.375 82.875 184 86.500 184 90.500 C 184 94.500 182.375 98.125 179.750 100.750 C 177.125 103.375 173.500 105 169.500 105 C 165.500 105 161.875 103.375 159.250 100.750 C 156.625 98.125 155 94.500 155 90.500 C 155 86.500 156.625 82.875 159.250 80.250 C 161.875 77.625 165.500 76 169.500 76 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.3399481410160661" fill="#FFD499" stroke="none" d="M 311.500 77 C 315.225 77 318.600 78.513 321.043 80.957 C 323.487 83.400 325 86.775 325 90.500 C 325 94.225 323.487 97.600 321.043 100.043 C 318.600 102.487 315.225 104 311.500 104 C 307.775 104 304.400 102.487 301.957 100.043 C 299.513 97.600 298 94.225 298 90.500 C 298 86.775 299.513 83.400 301.957 80.957 C 304.400 78.513 307.775 77 311.500 77 Z " transform="matrix(1, 0, 0, 1, 0, 3)"/>
+  <path id="ID0.9550542859360576" fill="#FFD499" stroke="none" d="M 441 80 C 445.414 80 449.414 81.793 452.311 84.689 C 455.207 87.586 457 91.586 457 96 C 457 100.414 455.207 104.414 452.311 107.311 C 449.414 110.207 445.414 112 441 112 C 436.586 112 432.586 110.207 429.689 107.311 C 426.793 104.414 425 100.414 425 96 C 425 91.586 426.793 87.586 429.689 84.689 C 432.586 81.793 436.586 80 441 80 Z " transform="matrix(1, 0, 0, 1, 0, -2)"/>
+</svg>
