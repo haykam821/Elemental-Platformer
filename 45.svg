@@ -1,8 +1,12 @@
-<svg version="1.1" width="497" height="364" viewBox="-1 -1 497 364" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="481" height="371" viewBox="-1 -1 481 371" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Exported by Scratch - http://scratch.mit.edu/ -->
-  <path id="ID0.9949736562557518" fill="#666666" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 0 182 L 480 318 L 480 360 L 0 360 L 0 182 Z " transform="matrix(1, 0, 0, 1, 8, 1)"/>
-  <text id="ID0.40305149741470814" fill="#666666" x="43" y="288.25" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 80, 126.1)">gray does nothing but keep you up</text>
-  <text id="ID0.7460749852471054" fill="#FF00BF" x="45" y="326.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 26, 322.5)">pink teleports you to the next level, yup.</text>
-  <path id="ID0.24535179883241653" fill="none" stroke="#FF00BF" stroke-width="2" stroke-linecap="round" d="M 480 0 L 480 360 " transform="matrix(1, 0, 0, 1, 8, 1)"/>
-  <path id="ID0.05068804835900664" fill="none" stroke="#FF0000" stroke-width="15" stroke-linecap="round" d="M 0 181 L 480 318 " transform="matrix(1, 0, 0, 1, 8, 1)"/>
+  <path id="ID0.8810975844971836" fill="#CDFF9D" stroke="#CDFF9D" stroke-width="2" d="M 0 173 L 480 173 L 480 360 L 0 360 L 0 173 Z " transform="matrix(-0.9835062026977539, 0, 0, 1.4021164178848267, 479.15, -146.25)"/>
+  <path id="ID0.06072556460276246" fill="#FF00BF" stroke="#FF00BF" stroke-width="2" d="M 76 0 L 167 0 L 167 91 L 76 91 L 76 0 Z " transform="matrix(-1, 0, 0, 0.5913978219032288, 483.9, 39.55)"/>
+  <path id="ID0.5206281039863825" fill="none" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 74 0 L 74 93 L 439 93 " transform="matrix(-1, 0, 0, 0.6105263233184814, 482.9, 37.6)"/>
+  <path id="ID0.9117856617085636" fill="#666666" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 296 360 L 480 119 L 480 360 L 296 360 Z " transform="matrix(-1.0910539627075195, 0, 0, 0.978805661201477, 525.65, 15.75)"/>
+  <path id="ID0.500338920392096" fill="#CDFF9D" stroke="#CDFF9D" stroke-width="2" d="M 457 3 L 478 3 L 478 130 L 457 130 L 457 3 Z " transform="matrix(-0.16051222383975983, 0, 0, 0.745814323425293, 80.25, 37.3)"/>
+  <path id="ID0.16443339735269547" fill="none" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 479 0 L 479 164 " transform="matrix(-1, 0, 0, 1, 482.9, 1)"/>
+  <path id="ID0.4619465693831444" fill="none" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 418 36 L 0 36 " transform="matrix(0.961904764175415, 0, 0, 1, 4.95, 2)"/>
+  <text id="ID0.6209661080501974" fill="#FFFFFF" x="196" y="260.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 7, 333.5)">you get a challenge</text>
+  <path id="ID0.11568901548162103" fill="#CDFF9D" stroke="#CDFF9D" stroke-width="2" d="M 43 69 L 317 69 L 317 92 L 43 92 L 43 69 Z " transform="matrix(1, 0, 0, 1, -2, 1)"/>
 </svg>

@@ -1,7 +1,9 @@
-<svg version="1.1" width="488" height="370" viewBox="-1 -1 488 370" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="488" height="364" viewBox="-1 -1 488 364" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Exported by Scratch - http://scratch.mit.edu/ -->
-  <path id="ID0.4061445347033441" fill="#E78E1D" stroke="#E78E1D" stroke-width="15" d="M 116 0 L 478 0 L 478 316 L 116 316 L 116 0 Z " transform="matrix(1, 0, 0, 1, 1, 8)"/>
-  <path id="ID0.9949736562557518" fill="#666666" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 0 182 L 480 318 L 480 360 L 0 360 L 0 182 Z " transform="matrix(1, 0, 0, 1, 1, 8)"/>
-  <path id="ID0.24535179883241653" fill="none" stroke="#FF00BF" stroke-width="2" stroke-linecap="round" d="M 480 0 L 480 360 " transform="matrix(1, 0, 0, 1, 1, 8)"/>
-  <text id="ID0.0038421638309955597" fill="#FFFFFF" x="127" y="209.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.9592404365539551, 0.2825912833213806, -0.2825912833213806, 0.9592404365539551, 66.8, 208.9)">run over me and you won't see</text>
+  <path id="ID0.4061445347033441" fill="#E78E1D" stroke="#E78E1D" stroke-width="15" d="M 116 0 L 478 0 L 478 316 L 116 316 L 116 0 Z " transform="matrix(1, 0, 0, 0.9681268930435181, 1, 10.2)"/>
+  <path id="ID0.9949736562557518" fill="#666666" stroke="#666666" stroke-width="2" stroke-linecap="round" d="M 0 182 L 480 318 L 480 360 L 0 360 L 0 182 Z " transform="matrix(1, 0, 0, 1, 1, 1)"/>
+  <path id="ID0.24535179883241653" fill="none" stroke="#FF00BF" stroke-width="2" stroke-linecap="round" d="M 480 0 L 480 360 " transform="matrix(1, 0, 0, 1, 1, 1)"/>
+  <text id="ID0.0038421638309955597" fill="#FFFFFF" x="127" y="209.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.9592404365539551, 0.2825912833213806, -0.2825912833213806, 0.9592404365539551, 66.8, 201.9)">run over me and float up slowly</text>
+  <path id="ID0.8891563219949603" fill="#666666" stroke="#666666" stroke-width="2" d="M 378 0 L 441 0 L 441 97 L 378 97 L 378 0 Z " transform="matrix(0.6461538672447205, 0, 0, 1, 119.35, 1)"/>
+  <text id="ID0.40998555766418576" fill="#FFFFFF" x="78" y="333.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1, 0, 0, 1, 173, 330.15)">don't get caught in the stone</text>
 </svg>
